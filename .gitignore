@@ -1,0 +1,12 @@
+# Compiled program
+four_fronts
+*.exe
+*.obj
+*.o
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+*.user
