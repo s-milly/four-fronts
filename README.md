@@ -1,6 +1,6 @@
 # Four Fronts
 
-A one-life sword-fighting arcade game written in C++ with OpenGL and GLUT for a computer graphics course.
+A one-life sword-fighting arcade game written in C++ with OpenGL and GLUT for a computer graphics course, based on Fist of Fury.
 
 **[Play it in your browser](https://s-milly.github.io/four-fronts/)**
 
